@@ -1,5 +1,7 @@
-# mastering-git-web
+# 캡스톤디자인 프로젝트
 
-This repository houses a proposed website for the Mastering Git book.
+## 목표
+DNN을 이용하여 사람의 나이를 컴퓨터가 일정 수준의 신뢰도로 예측할 수 있게 되었다.
+기존에 카메라에 얼굴을 비추면 나이가 들었거나 어렸을 때의 모습을 보여주는 앱이 있었는데, DNN을 활용하여 자동으로 어떤 나이로 변환할 수 있지 않을까?
 
-Contact: mwkoo@sogang.ac.kr
+본 프로젝트에서는 얼굴과 나이를 학습시키고 반대로 나이에서 출발해서 다른 얼굴을 만들어 내는 것을 목표로 한다.
